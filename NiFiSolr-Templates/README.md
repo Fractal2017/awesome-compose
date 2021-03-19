@@ -1,0 +1,1 @@
+# NiFiSolr templates
